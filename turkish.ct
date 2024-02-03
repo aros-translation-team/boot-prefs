@@ -158,9 +158,9 @@ MSG_MISC
 Çeþitli
 ; Miscellaneous
 ;
-MSG_USB_ENABLE
-USB Etkinleþtir
-; Enable USB
+MSG_IOAPIC_ENABLE
+IOAPIC Etkinleþtir
+; Enable IOAPIC
 ;
 MSG_ACPI_ENABLE
 ACPI Etkinleþtir
@@ -225,4 +225,16 @@ Vazgeç
 MSG_BAD_MODULE
 Hatalý modül yolu "%s"
 ; Bad module path "%s"
+;
+MSG_ENABLE
+Enable
+;Enable
+;
+MSG_NOTE_INFO
+Note: This application edits only first entry in GRUB configuration file.
+;Note: This application edits only first entry in GRUB configuration file.
+;
+MSG_AHCI_GENERATION
+Force generation:
+;Force generation:
 ;
