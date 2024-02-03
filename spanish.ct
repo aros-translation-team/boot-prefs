@@ -158,9 +158,9 @@ MSG_MISC
 Miscelanea
 ; Miscellaneous
 ;
-MSG_USB_ENABLE
-Habilitar USB
-; Enable USB
+MSG_IOAPIC_ENABLE
+Habilitar IOAPIC
+; Enable IOAPIC
 ;
 MSG_ACPI_ENABLE
 Habilitar ACPI
@@ -225,4 +225,16 @@ Cancelar
 MSG_BAD_MODULE
 Ruta de módulo incorrecta "%s"
 ; Bad module path "%s"
+;
+MSG_ENABLE
+Enable
+;Enable
+;
+MSG_NOTE_INFO
+Note: This application edits only first entry in GRUB configuration file.
+;Note: This application edits only first entry in GRUB configuration file.
+;
+MSG_AHCI_GENERATION
+Force generation:
+;Force generation:
 ;
