@@ -115,7 +115,7 @@ Gaitu 32 biteko transferentziak
 ; Enable 32-bit Data Transfers
 ;
 MSG_ATA_POLL
-Detektatu okupatutako estatuaren amaiera inkesta bidez 
+Detektatu okupatutako estatuaren amaiera inkesta bidez
 ; Use Polling to Detect End of Busy State
 ;
 MSG_ATA_MULTI
@@ -179,7 +179,7 @@ DOS gailua:
 ; DOS Device:
 ;
 MSG_DEVICE_DELAY
-Boot Delay: 
+Boot Delay:
 ; Boot Delay:
 ;
 MSG_DEVICE_SECONDS
