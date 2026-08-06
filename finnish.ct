@@ -1,0 +1,240 @@
+## version $VER: boot.catalog 1.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_NAME
+Käynnistysasetukset
+; Boot Preferences
+;
+MSG_DESCRIPTION
+Hallitse käynnistysasetuksia
+; Manage boot preferences
+;
+MSG_GFX
+Grafiikka
+; Graphics
+;
+MSG_GFX_COMPOSITION
+Ota koostaminen käyttöön
+; Enable composition
+;
+MSG_GFX_TYPE
+Tyyppi:
+; Type:
+;
+MSG_GFX_TYPE_AUTO
+Automaattinen
+; Automatic
+;
+MSG_GFX_TYPE_NATIVE
+Natiivi
+; Native
+;
+MSG_GFX_TYPE_VESA
+VESA
+; VESA
+;
+MSG_GFX_TYPE_VGA
+VGA
+; VGA
+;
+MSG_GFX_VESAMODE
+VESA-tila
+; VESA Mode
+;
+MSG_GFX_WIDTH
+Leveys:
+; Width:
+;
+MSG_GFX_HEIGHT
+Korkeus:
+; Height:
+;
+MSG_GFX_DEPTH
+Värisyvyys:
+; Colour Depth:
+;
+MSG_GFX_DEPTH_TRUE
+Tosivärit
+; True Colour
+;
+MSG_GFX_DEPTH_HIGH
+Suuret värit
+; High Colour
+;
+MSG_GFX_DEPTH_LOW
+256 väriä
+; 256 Colours
+;
+MSG_GFX_REFRESH
+Virkistystaajuus:
+; Refresh Rate:
+;
+MSG_GFX_HERTZ
+Hz
+; Hz
+;
+MSG_GFX_DEFAULTREFRESH
+Käytä oletusvirkistystaajuutta
+; Use Default Refresh Rate
+;
+MSG_GFX_BESTRES
+Käytä suurinta saatavilla olevaa tarkkuutta
+; Use Highest Available Resolution
+;
+MSG_ATA
+ATA
+; ATA
+;
+MSG_ATA_BUSES
+Käytössä olevat väylät:
+; Enabled Buses:
+;
+MSG_ATA_BUS_PCI
+PCI
+; PCI
+;
+MSG_ATA_BUS_LEGACY
+Legacy
+; Legacy
+;
+MSG_ATA_BUS_ALL
+Kaikki
+; All
+;
+MSG_ATA_BUS_NONE
+Ei mitään
+; None
+;
+MSG_ATA_DMA
+Ota DMA-tiedonsiirrot käyttöön
+; Enable DMA Data Transfers
+;
+MSG_ATA_32BIT
+Ota 32-bittiset tiedonsiirrot käyttöön
+; Enable 32-bit Data Transfers
+;
+MSG_ATA_POLL
+Käytä kyselyä varattu-tilan päättymisen havaitsemiseen
+; Use Polling to Detect End of Busy State
+;
+MSG_ATA_MULTI
+Ota monisektoriset tiedonsiirrot käyttöön
+; Enable Multisector Data Transfers
+;
+MSG_ATA_AHCI
+Ota natiivi AHCI käyttöön
+; Enable Native AHCI
+;
+MSG_DEBUG
+Virheenjäljitys
+; Debugging
+;
+MSG_DEBUG_OUTPUT
+Tuloste:
+; Output:
+;
+MSG_DEBUG_OUTPUT_NONE
+Ei mitään
+; None
+;
+MSG_DEBUG_OUTPUT_MEMORY
+Muistipuskuri
+; Memory Buffer
+;
+MSG_DEBUG_OUTPUT_SERIAL
+Sarjaportti
+; Serial Port
+;
+MSG_DEBUG_MUNGWALL
+Ota Mungwall käyttöön
+; Enable Mungwall
+;
+MSG_DEBUG_USB
+Jäljitä USB
+; Debug USB
+;
+MSG_MISC
+Sekalaiset
+; Miscellaneous
+;
+MSG_IOAPIC_ENABLE
+Ota IOAPIC käyttöön
+; Enable IOAPIC
+;
+MSG_ACPI_ENABLE
+Ota ACPI käyttöön
+; Enable ACPI
+;
+MSG_FLOPPY_ENABLE
+Ota levykeasema käyttöön
+; Enable Floppy Disk Drive
+;
+MSG_DEVICE
+Käynnistyslaite
+; Boot Device
+;
+MSG_DEVICE_NAME
+DOS-laite:
+; DOS Device:
+;
+MSG_DEVICE_DELAY
+Käynnistysviive:
+; Boot Delay:
+;
+MSG_DEVICE_SECONDS
+sekuntia
+; seconds
+;
+MSG_DEVICE_DEFAULTDELAY
+Käytä oletusarvoista käynnistysviivettä
+; Use Default Boot Delay
+;
+MSG_OPTIONS
+Valinnat
+; Options
+;
+MSG_MODULES
+Moduulit
+; Modules
+;
+MSG_ACTIVE
+Aktiivinen
+; Active
+;
+MSG_PATH
+Polku
+; Path
+;
+MSG_ADD
+Lisää
+; Add
+;
+MSG_REMOVE
+Poista
+; Remove
+;
+MSG_OK
+Hyväksy
+; OK
+;
+MSG_CANCEL
+Peru
+; Cancel
+;
+MSG_BAD_MODULE
+Virheellinen moduulipolku "%s"
+; Bad module path "%s"
+;
+MSG_ENABLE
+Ota käyttöön
+; Enable
+;
+MSG_NOTE_INFO
+Huomaa: Tämä ohjelma muokkaa vain GRUB-asetustiedoston ensimmäistä kohtaa.
+; Note: This application edits only first entry in GRUB configuration file.
+;
+MSG_AHCI_GENERATION
+Pakota sukupolvi:
+; Force generation:
+;

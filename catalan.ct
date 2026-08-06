@@ -1,0 +1,240 @@
+## version $VER: boot.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_NAME
+Preferències d'arrencada
+; Boot Preferences
+;
+MSG_DESCRIPTION
+Gestionar preferències d'arrencada
+; Manage boot preferences
+;
+MSG_GFX
+Gràfics
+; Graphics
+;
+MSG_GFX_COMPOSITION
+Activar la composició
+; Enable composition
+;
+MSG_GFX_TYPE
+Tipus:
+; Type:
+;
+MSG_GFX_TYPE_AUTO
+Automàtic
+; Automatic
+;
+MSG_GFX_TYPE_NATIVE
+Natiu
+; Native
+;
+MSG_GFX_TYPE_VESA
+VESA
+; VESA
+;
+MSG_GFX_TYPE_VGA
+VGA
+; VGA
+;
+MSG_GFX_VESAMODE
+Mode VESA
+; VESA Mode
+;
+MSG_GFX_WIDTH
+Amplada:
+; Width:
+;
+MSG_GFX_HEIGHT
+Alçada:
+; Height:
+;
+MSG_GFX_DEPTH
+Profunditat de color:
+; Colour Depth:
+;
+MSG_GFX_DEPTH_TRUE
+Color real
+; True Colour
+;
+MSG_GFX_DEPTH_HIGH
+Color alt
+; High Colour
+;
+MSG_GFX_DEPTH_LOW
+256 colors
+; 256 Colours
+;
+MSG_GFX_REFRESH
+Freqüència de refresc:
+; Refresh Rate:
+;
+MSG_GFX_HERTZ
+Hz
+; Hz
+;
+MSG_GFX_DEFAULTREFRESH
+Usar la freqüència de refresc per defecte
+; Use Default Refresh Rate
+;
+MSG_GFX_BESTRES
+Usar la resolució més alta disponible
+; Use Highest Available Resolution
+;
+MSG_ATA
+ATA
+; ATA
+;
+MSG_ATA_BUSES
+Busos activats:
+; Enabled Buses:
+;
+MSG_ATA_BUS_PCI
+PCI
+; PCI
+;
+MSG_ATA_BUS_LEGACY
+Legacy
+; Legacy
+;
+MSG_ATA_BUS_ALL
+Tot
+; All
+;
+MSG_ATA_BUS_NONE
+Cap
+; None
+;
+MSG_ATA_DMA
+Activar transferències de dades DMA
+; Enable DMA Data Transfers
+;
+MSG_ATA_32BIT
+Activar transferències de dades de 32 bits
+; Enable 32-bit Data Transfers
+;
+MSG_ATA_POLL
+Usar sondeig per detectar el final de l'estat ocupat
+; Use Polling to Detect End of Busy State
+;
+MSG_ATA_MULTI
+Activar transferències de dades multisector
+; Enable Multisector Data Transfers
+;
+MSG_ATA_AHCI
+Activar AHCI natiu
+; Enable Native AHCI
+;
+MSG_DEBUG
+Depuració
+; Debugging
+;
+MSG_DEBUG_OUTPUT
+Sortida:
+; Output:
+;
+MSG_DEBUG_OUTPUT_NONE
+Cap
+; None
+;
+MSG_DEBUG_OUTPUT_MEMORY
+Memòria intermèdia
+; Memory Buffer
+;
+MSG_DEBUG_OUTPUT_SERIAL
+Port sèrie
+; Serial Port
+;
+MSG_DEBUG_MUNGWALL
+Activar Mungwall
+; Enable Mungwall
+;
+MSG_DEBUG_USB
+Depurar USB
+; Debug USB
+;
+MSG_MISC
+Miscel·lània
+; Miscellaneous
+;
+MSG_IOAPIC_ENABLE
+Activar IOAPIC
+; Enable IOAPIC
+;
+MSG_ACPI_ENABLE
+Activar ACPI
+; Enable ACPI
+;
+MSG_FLOPPY_ENABLE
+Activar la disquetera
+; Enable Floppy Disk Drive
+;
+MSG_DEVICE
+Dispositiu d'arrencada
+; Boot Device
+;
+MSG_DEVICE_NAME
+Dispositiu DOS:
+; DOS Device:
+;
+MSG_DEVICE_DELAY
+Retard d'arrencada:
+; Boot Delay:
+;
+MSG_DEVICE_SECONDS
+segons
+; seconds
+;
+MSG_DEVICE_DEFAULTDELAY
+Usar retard d'arrencada per defecte
+; Use Default Boot Delay
+;
+MSG_OPTIONS
+Opcions
+; Options
+;
+MSG_MODULES
+Mòduls
+; Modules
+;
+MSG_ACTIVE
+Actiu
+; Active
+;
+MSG_PATH
+Camí
+; Path
+;
+MSG_ADD
+Afegir
+; Add
+;
+MSG_REMOVE
+Eliminar
+; Remove
+;
+MSG_OK
+D'Acord
+; OK
+;
+MSG_CANCEL
+Cancel.lar
+; Cancel
+;
+MSG_BAD_MODULE
+Camí de mòdul incorrecte "%s"
+; Bad module path "%s"
+;
+MSG_ENABLE
+Activar
+; Enable
+;
+MSG_NOTE_INFO
+Nota: Aquesta aplicació només edita la primera entrada del fitxer de configuració de GRUB.
+; Note: This application edits only first entry in GRUB configuration file.
+;
+MSG_AHCI_GENERATION
+Forçar generació:
+; Force generation:
+;

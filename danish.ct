@@ -1,0 +1,240 @@
+## version $VER: boot.catalog 1.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_NAME
+Opstartsindstillinger
+; Boot Preferences
+;
+MSG_DESCRIPTION
+Håndtér opstartsindstillinger
+; Manage boot preferences
+;
+MSG_GFX
+Grafik
+; Graphics
+;
+MSG_GFX_COMPOSITION
+Aktivér komposition
+; Enable composition
+;
+MSG_GFX_TYPE
+Type:
+; Type:
+;
+MSG_GFX_TYPE_AUTO
+Automatisk
+; Automatic
+;
+MSG_GFX_TYPE_NATIVE
+Native
+; Native
+;
+MSG_GFX_TYPE_VESA
+VESA
+; VESA
+;
+MSG_GFX_TYPE_VGA
+VGA
+; VGA
+;
+MSG_GFX_VESAMODE
+VESA-tilstand
+; VESA Mode
+;
+MSG_GFX_WIDTH
+Bredde:
+; Width:
+;
+MSG_GFX_HEIGHT
+Højde:
+; Height:
+;
+MSG_GFX_DEPTH
+Farvedybde:
+; Colour Depth:
+;
+MSG_GFX_DEPTH_TRUE
+True Colour
+; True Colour
+;
+MSG_GFX_DEPTH_HIGH
+High Colour
+; High Colour
+;
+MSG_GFX_DEPTH_LOW
+256 farver
+; 256 Colours
+;
+MSG_GFX_REFRESH
+Opdateringsfrekvens:
+; Refresh Rate:
+;
+MSG_GFX_HERTZ
+Hz
+; Hz
+;
+MSG_GFX_DEFAULTREFRESH
+Brug standardopdateringsfrekvens
+; Use Default Refresh Rate
+;
+MSG_GFX_BESTRES
+Brug højeste tilgængelige opløsning
+; Use Highest Available Resolution
+;
+MSG_ATA
+ATA
+; ATA
+;
+MSG_ATA_BUSES
+Aktiverede busser:
+; Enabled Buses:
+;
+MSG_ATA_BUS_PCI
+PCI
+; PCI
+;
+MSG_ATA_BUS_LEGACY
+Legacy
+; Legacy
+;
+MSG_ATA_BUS_ALL
+Alle
+; All
+;
+MSG_ATA_BUS_NONE
+Ingen
+; None
+;
+MSG_ATA_DMA
+Aktivér DMA-dataoverførsler
+; Enable DMA Data Transfers
+;
+MSG_ATA_32BIT
+Aktivér 32-bit dataoverførsler
+; Enable 32-bit Data Transfers
+;
+MSG_ATA_POLL
+Brug polling til at registrere afslutning på optaget-tilstand
+; Use Polling to Detect End of Busy State
+;
+MSG_ATA_MULTI
+Aktivér multisektor-dataoverførsler
+; Enable Multisector Data Transfers
+;
+MSG_ATA_AHCI
+Aktivér indbygget AHCI
+; Enable Native AHCI
+;
+MSG_DEBUG
+Fejlfinding
+; Debugging
+;
+MSG_DEBUG_OUTPUT
+Uddata:
+; Output:
+;
+MSG_DEBUG_OUTPUT_NONE
+Ingen
+; None
+;
+MSG_DEBUG_OUTPUT_MEMORY
+Hukommelsesbuffer
+; Memory Buffer
+;
+MSG_DEBUG_OUTPUT_SERIAL
+Seriel port
+; Serial Port
+;
+MSG_DEBUG_MUNGWALL
+Aktivér Mungwall
+; Enable Mungwall
+;
+MSG_DEBUG_USB
+Fejlfind USB
+; Debug USB
+;
+MSG_MISC
+Diverse
+; Miscellaneous
+;
+MSG_IOAPIC_ENABLE
+Aktivér IOAPIC
+; Enable IOAPIC
+;
+MSG_ACPI_ENABLE
+Aktivér ACPI
+; Enable ACPI
+;
+MSG_FLOPPY_ENABLE
+Aktivér diskettedrev
+; Enable Floppy Disk Drive
+;
+MSG_DEVICE
+Opstartsenhed
+; Boot Device
+;
+MSG_DEVICE_NAME
+DOS-enhed:
+; DOS Device:
+;
+MSG_DEVICE_DELAY
+Opstartsforsinkelse:
+; Boot Delay:
+;
+MSG_DEVICE_SECONDS
+sekunder
+; seconds
+;
+MSG_DEVICE_DEFAULTDELAY
+Brug standardopstartsforsinkelse
+; Use Default Boot Delay
+;
+MSG_OPTIONS
+Muligheder
+; Options
+;
+MSG_MODULES
+Moduler
+; Modules
+;
+MSG_ACTIVE
+Aktiv
+; Active
+;
+MSG_PATH
+Sti
+; Path
+;
+MSG_ADD
+Tilføj
+; Add
+;
+MSG_REMOVE
+Fjern
+; Remove
+;
+MSG_OK
+OK
+; OK
+;
+MSG_CANCEL
+Afbryd
+; Cancel
+;
+MSG_BAD_MODULE
+Ugyldig modulsti "%s"
+; Bad module path "%s"
+;
+MSG_ENABLE
+Aktivér
+; Enable
+;
+MSG_NOTE_INFO
+Bemærk: Dette program redigerer kun den første post i GRUB-konfigurationsfilen.
+; Note: This application edits only first entry in GRUB configuration file.
+;
+MSG_AHCI_GENERATION
+Gennemtving generation:
+; Force generation:
+;
