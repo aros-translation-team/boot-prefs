@@ -8,7 +8,7 @@ MSG_NAME
 ;
 MSG_DESCRIPTION
 Настройки загрузчика
-; Boot preferences
+; Manage boot preferences
 ;
 MSG_GFX
 Графика
